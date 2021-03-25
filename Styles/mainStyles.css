@@ -1,0 +1,97 @@
+nav ul{
+    text-align: center;
+    font-size: 1.2em;
+    
+}
+nav{
+    background-color: #000000;
+    padding: 5px;
+}
+nav ul li{
+    list-style-type: none;
+    background-color: red;
+    display: inline;
+    padding: 15px;
+    margin: 5px;
+    border: 2px solid blue;
+    border-radius: 10px;
+    color: white; 
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+nav ul li:hover{
+    background-color: orangered;
+}
+header {
+    background-color: #000000;
+}
+#mid{
+    text-align: center;
+}
+#left{
+    text-align: left;
+}
+#right{
+    text-align: right;
+}
+footer{
+    border: 3px solid black;
+    background-color: black;
+    color:white;
+
+}
+#width{
+    width: 32%;
+    height: 50;
+    border: 2px solid red;
+}
+#size{
+    font-size: large;
+    
+}
+main{
+    background-color: black;
+    color: white;
+}
+body{
+    background-color: black;
+    color: white;
+}
+#centerImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid red;
+}
+#border{
+    border: 2px solid red;
+}
+h3{
+    border: 2px solid red;
+    width: 70%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 3ch;
+}
+h2{
+    font-size: 5ch;
+}
+#midborder{
+    border: 2px solid red;
+    width: fit-content;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#colabPics{
+    width: 500;
+    height: 334;#
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid red;
+}
