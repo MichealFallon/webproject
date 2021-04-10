@@ -95,3 +95,28 @@ h2{
     margin-right: auto;
     border: 2px solid red;
 }
+#Left{
+    float: left;
+    border: 2px solid red;
+    margin-right: 1cm;
+    margin-top: 5px;
+    clear: left;
+
+}
+#staffpara{
+    font-size: x-large;
+}
+table{
+    width: 95%;
+    border: 3px solid red;
+    border-collapse: collapse;
+    font-size: 20px;
+    margin: 20px;
+    border: 1;
+}
+th,tr,td{
+    border: 3px solid red;
+    text-align: left;
+}
+
+
