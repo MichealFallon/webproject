@@ -58,6 +58,7 @@ main{
 body{
     background-color: black;
     color: white;
+    font-family: serif;
 }
 #centerImage{
     display: block;
