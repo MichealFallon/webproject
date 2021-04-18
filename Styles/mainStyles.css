@@ -119,5 +119,9 @@ th,tr,td{
     border: 3px solid red;
     text-align: left;
 }
+aside {
+    float: right;
+    width: 18%;
+}
 
 
