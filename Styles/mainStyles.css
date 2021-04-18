@@ -123,5 +123,10 @@ aside {
     float: right;
     width: 18%;
 }
-
+main ol{
+    display: block;
+    margin-left: 38%;
+    margin-right: 38%;
+    text-align: center;
+}
 
