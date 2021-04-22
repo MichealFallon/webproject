@@ -42,10 +42,14 @@ footer{
     color:white;
 
 }
-#width{
+.width{
     width: 32%;
     height: 50;
     border: 2px solid red;
+}
+.size{
+    font-size: large;
+    
 }
 #size{
     font-size: large;
@@ -60,7 +64,7 @@ body{
     color: white;
     font-family: serif;
 }
-#centerImage{
+.centerImage{
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -81,7 +85,7 @@ h3{
 h2{
     font-size: 5ch;
 }
-#midborder{
+.midborder{
     border: 2px solid red;
     width: fit-content;
     text-align: center;
@@ -96,7 +100,7 @@ h2{
     margin-right: auto;
     border: 2px solid red;
 }
-#Left{
+.Left{
     float: left;
     border: 2px solid red;
     margin-right: 1cm;
@@ -104,7 +108,7 @@ h2{
     clear: left;
 
 }
-#staffpara{
+.staffpara{
     font-size: x-large;
 }
 table{
@@ -127,6 +131,9 @@ main ol{
     display: block;
     margin-left: 38%;
     margin-right: 38%;
+    text-align: center;
+}
+.mid{
     text-align: center;
 }
 
